@@ -1,6 +1,6 @@
 <?php
 /**
- * Making some changes to the sideshow branch
+ * Making some changes to the sideshow branch, and one more for good measure
  *
  * This is the most generic template file in a WordPress theme and one
  * of the two required files for a theme (the other being style.css).
