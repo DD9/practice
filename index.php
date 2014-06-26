@@ -12,7 +12,7 @@
  * @link http://codex.wordpress.org/Template_Hierarchy
  *
  * @package WordPress
- * @subpackage Twenty_Fourteen
+ * @subpackage Practice
  * @since Twenty Fourteen 1.0
  */
 
