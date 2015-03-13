@@ -14,6 +14,8 @@
  * One more change to build up a little commit history
  * Last one so there are several to test squash
  *
+ * in the midnight hour
+ * 
  * @link http://codex.wordpress.org/Template_Hierarchy
  *
  * @package WordPress
